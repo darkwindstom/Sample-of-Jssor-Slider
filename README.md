@@ -1,0 +1,2 @@
+Sample-of-Jssor-Slider
+======================
